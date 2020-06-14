@@ -8,7 +8,7 @@ output: process.stdout
 });
 
 //declare array 
-
+//a
 var day1 = [];
 var day2 = [];
 var day3 = [];
